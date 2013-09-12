@@ -1,8 +1,13 @@
 @-moz-document domain("linux.org.ru"){
-	body, html {background-color: #ffffff !important;}
+	html, body {background-color: #ffffff !important;}
 	body {color:#000000!important;}
 	a{color:#e50078!important;}
 	a:visited{color:#892890!important;}
+
+	#hd h1{color:#e50078 !important;}
+	#hd .menu .primary a{color:#e50078 !important;}
+	#hd .menu .secondary a{color:#e50078 !important;}
+	#bd h2 *{color:#e50078 !important;}
 	
 	#bd .forum table tbody td a{text-decoration:none;color:#e50078!important;}
 	#bd .forum table tbody td a:visited{color:#892890!important;}
@@ -28,4 +33,6 @@
 	.code{background-color:#ffffff!important;}
 	.fav-buttons a{color:#babdb6!important;}
 	.messages .msg{background:#ffffff !important;}
+	.page-number {background-color: #ffffff;}
+
 }
