@@ -1,6 +1,6 @@
 @-moz-document domain("linux.org.ru"){
 	body {background-color: #ffffff !important;}
-	body  {font-family:"Arial", sans-serif;color:#000000!important;}
+	body {color:#000000!important;}
 	a{color:#e50078!important;}
 	a:visited{color:#892890!important;}
 	
@@ -8,7 +8,7 @@
 	#bd .forum table tbody td a:visited{color:#892890!important;}
 	#bd .forum table thead{background-color:#FFFFFF;color:#000000!important;}
 	#bd .forum table thead a{color:#e50078!important;}
-	#bd .forum table tbody tr:hover{background-color:#ffffff!important;}
+	#bd .forum table tbody tr:hover{background-color:#facbdb!important;}
 
 	#bd header h1 a{color:#e50078!important;}
 	#bd header h1 a:visited{color:#892890!important;}
@@ -21,10 +21,11 @@
 
 	#bd .sign a{color:#e50078!important;}
 	#bd .sign a:visited{color:#e50078!important;}
+
+	.message-table .tag {background-color: #ff9fcf;}
 	.boxlet{background-color:#ffffff!important;}
-	
+    .infoblock{background-color:#ffffff}
 	.code{background-color:#ffffff!important;}
 	.fav-buttons a{color:#babdb6!important;}
-	.msg h1 a{color:#e50078!important;}
-	.msg{background:#ffffff}
+	.msg_body{background-color:#ffffff}
 }
