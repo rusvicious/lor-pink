@@ -11,29 +11,30 @@
 	
 	#bd .forum table tbody td a{text-decoration:none;color:#e50078!important;}
 	#bd .forum table tbody td a:visited{color:#892890!important;}
-	#bd .forum table thead{background-color:#FFFFFF;color:#000000!important;}
+	#bd .forum table thead{background-color:#facbdb!important;color:#000000!important;}
 	#bd .forum table thead a{color:#e50078!important;}
 	#bd .forum table tbody tr:hover{background-color:#facbdb!important;}
+	#bd .forum table th{border: 1px solid #facbdb!important;}
 
 	#bd header h1 a{color:#e50078!important;}
 	#bd header h1 a:visited{color:#892890!important;}
-	#bd header a:visited{color:#e50078}
-	#whois_userpic {border-radius: 1em; padding: 1em;background: #facbdb;}
+	#bd header a:visited{color:#e50078!important;}
+	#whois_userpic{border-radius: 1em; padding: 1em; background:#facbdb!important;}
 
 	#bd a:visited{color:#e50078!important;}
 	#bd a.navLink:visited{color:#e50078!important;}
-	#bd .nav li a{border-color:#d4d4d4;background-color:#ffffff;color:#e50078;!important;}
-	#bd .nav li a:visited{color:#892890!important;!important;}
+	#bd .nav li a{border-color:#d4d4d4!important;background-color:#ffffff!important;color:#e50078!important;}
+	#bd .nav li a:visited{color:#892890!important;}
 
-	#bd .sign a{color:#ff9fcf!important;}
-	#bd .sign a:visited{color:#ff9fcf!important;}
+	#bd .sign a{color:#e50078!important;}
+	#bd .sign a:visited{color:#e50078!important;}
 
-	.message-table .tag {background-color: #ff9fcf;}
-	.boxlet{background-color:#ffffff!important;}
-	.infoblock{background-color:#ffffff}
-	.code{background-color:#ffffff!important;}
+	.message-table .tag {background-color:#ff9fcf!important;}
+	.boxlet{background-color:#ff9fcf!important;}
+	.infoblock{background-color:#facbdb!important;}
+	.code{background-color:#facbdb!important;}
 	.fav-buttons a{color:#babdb6!important;}
-	.messages .msg{background:#ffffff !important;}
-	.page-number {background-color: #ffffff;}
+	.messages .msg{background:#facbdb!important;}
+	.page-number {background-color: #ffffff!important;}
 	div.quote{margin:0;border:0 solid #ff9fcf;border-left-width:5px;padding:0 0.5em 0}
 }
