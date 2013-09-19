@@ -1,6 +1,7 @@
 @-moz-document domain("linux.org.ru"){
 	html, body {background-color: #ffffff !important;}
 	body {color:#000000!important;}
+	pre code {color: #ffffff!important;}
 	a{color:#e50078!important;}
 	a:visited{color:#892890!important;}
 
@@ -9,6 +10,7 @@
 	#hd .menu .secondary a{color:#e50078 !important;}
 	#bd h2 *{color:#e50078 !important;}
 	#bd .btn-default {background-color:#facbdb!important;}
+	#bd .btn {color:#e50078 !important; };
 	
 	#bd .forum table tbody td a{text-decoration:none;color:#e50078!important;}
 	#bd .forum table tbody td a:visited{color:#892890!important;}
