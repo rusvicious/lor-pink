@@ -1,7 +1,7 @@
 @-moz-document domain("linux.org.ru"){
 	html, body {background-color: #ffffff !important;}
 	body {color:#000000!important;}
-	pre code {color: #ffffff!important;}
+	pre code {color: #000000!important;}
 	a{color:#e50078!important;}
 	a:visited{color:#892890!important;}
 
